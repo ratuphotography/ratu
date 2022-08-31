@@ -1,0 +1,2 @@
+# ratu
+Aplikasi Ratu Photography
